@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269838896234",
+    "project_id": "lista3-c3055",
+    "storage_bucket": "lista3-c3055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269838896234:android:d287a1c6dafdf0552c0e13",
+        "android_client_info": {
+          "package_name": "com.example.lista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDir8WZquJiQEgz0Hvmd0rtWy6PvHWOv9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
